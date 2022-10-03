@@ -1,6 +1,7 @@
 header {
+	background-image: url(fundao.png); /*isso coloca uma imagem no fundo*/
 	background-color: #BBBBBB;
-	padding: 20px 0;
+	padding: 0px 0;
 	margin: 0 auto;
 }
 
@@ -18,7 +19,7 @@ nav {
 }
 
 nav a {
-	color: #000000;
+	color: #0000FF;
 	text-decoration: none;
 
 }
@@ -38,13 +39,34 @@ a:hover {
 }
 
 a:visited {
-	color:  blueviolet;
+	color:  blue;
 }
 
 .titulo-centralizado {
 	text-align: center;
+	font-size: 35px;
+	margin-top: 10px;
+	text-decoration-style: solid;
+	padding: 50px;
+
+
 }
 
-.missao {
-	color: #ff0000;
+.sobre {
+	font-size: 20px;
+	text-align: center;
+	position: relative;
+	line-height: 20px;
+
+}
+
+#missao {
+	font-size: 25px;
+
+
+}
+
+em strong {
+	color: #FF0000;
+	text-decoration: underline;
 }
