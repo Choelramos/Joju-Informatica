@@ -70,3 +70,13 @@ em strong {
 	color: #FF0000;
 	text-decoration: underline;
 }
+
+.textim {
+	position: absolute;
+	font-weight: bold;
+	cursor: pointer;
+	line-height: 25px;
+	text-align: center;
+	font-size: 2rem;
+
+}
