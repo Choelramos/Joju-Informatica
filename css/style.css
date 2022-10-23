@@ -46,7 +46,7 @@ a:visited {
 	text-align: center;
 	font-size: 35px;
 	margin-top: 10px;
-	text-decoration-style: solid;
+	text-decoration: bold;
 	padding: 50px;
 
 
@@ -81,4 +81,10 @@ em strong {
 	display: inline-block
 	
 
+}
+
+footer {
+	text-align: center;
+	background:  url("bg.jpg");
+	padding: 40px 0;
 }
