@@ -75,8 +75,10 @@ em strong {
 	position: absolute;
 	font-weight: bold;
 	cursor: pointer;
-	line-height: 25px;
+	line-height: 30px;
 	text-align: center;
 	font-size: 2rem;
+	display: inline-block
+	
 
 }
