@@ -2,13 +2,18 @@ header {
 	background-color: #4feba5;
 	width: 100%;
 	height: 130px;
-	margin: 0 auto;
+	margin: 10px auto;
 }
 
+.logo {
+	position: absolute;
+	transform: scale(0.8);
+	top: 20px;
+}
 h1 {
 	position: absolute;
 	width: 100%;
-	transform: scale(0.8);
+	transform: scale(1.2);
 	top: 10px;
 
 }
@@ -43,9 +48,10 @@ a:hover {
 }
 
 .placa-mae {
-	
+	position: relative;
+	width: 100%;
+	height: 80%;
 }
-
 
 .titulo-principal {
 	text-align: center;
@@ -60,6 +66,7 @@ a:hover {
 	background-color: #dbf9f5;
 	width: 100%;
 	height: 500px;
+
 }
 
 .sobre p{
@@ -75,22 +82,20 @@ a:hover {
 	font-style: italic;
 }
 
-#missao {
-	font-size: 25px;
-
+.missao {
+	font-size: 25	px;
 }
 
 em strong {
 	color: #FF0000;
-	text-decoration: underline;
+	text-decoration: underline;	
 }
 
 .copiuter {
-	position: absolute;
+	position: relative;
 	margin: 20px 20px 20px 20px;
-	width: 30%;
+	width: 25%;
 	float: left;
-
 }
 
 .frase-transparente {
@@ -103,7 +108,6 @@ em strong {
 .titulo-vantagens {
 	text-align: center;
 }
-
 
 
 footer {
