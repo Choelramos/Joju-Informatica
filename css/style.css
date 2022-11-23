@@ -1,5 +1,6 @@
 body {
 	font-family: 'Montserraf', sans-serif;
+	background-color: #dbf9f5;
 }
 header {
 	background-color: #4feba5;
@@ -61,19 +62,20 @@ a:hover {
 	top: 20px;
 	text-align: center;
 	font-size: 2em;
-	margin: 0 0 1em;
+	margin: 0 0 2em;
 	clear: left;
 }
 
 .copiuter {
 	position: relative;
-	margin: 20px 20px 20px 20px;
-	width: 20%;
+	margin: 0 0 0 0;
+	width: 250px;
 	float: left;
+	bottom: 15px;
+	right: 50px;
 }
 
 .sobre {
-	background-color: #dbf9f5;
 	position: relative;
 	width: 940px;
 	margin: 0 auto;
@@ -81,9 +83,9 @@ a:hover {
 }
 
 .sobre p {
-	font-size: 20px;
-	margin: 0 0 1em;
-	text-align: center;
+	font-size: 18px;
+	margin: 0 0 10px 0;
+	text-align: left;
 }
 
 .sobre strong {
