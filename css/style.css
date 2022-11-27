@@ -91,11 +91,12 @@ a:hover {
 .pc-case {
 	width: 20%;
 	float: left;
-	margin: 0 20px 00px 0;
+	margin: 0 20px 0 0;
 }
 
 .vantagens {
-	margin-top: 80px;
+	margin-top: 100px;
+	background: linear-gradient(#dbf9f5, #4682B4);
 }
 
 
@@ -109,7 +110,6 @@ a:hover {
 
 .beneficios {
 	line-height: 1.5;
-
 }
 
 .copiuter {
