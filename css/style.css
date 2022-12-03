@@ -1,6 +1,5 @@
 body {
 	font-family: 'Montserraf', sans-serif;
-	background-color: #dbf9f5;
 }
 header {
 	background-color: #4feba5;
@@ -52,20 +51,27 @@ a:hover {
 
 .placa-mae {
 	position: relative;
-	width: 100%;
-	height: 300px;
+	width: 100%;	
+	height: 250px;
+	transition: 500ms;
+
+}
+
+.placa-mae:hover {
+	opacity: 0.8;
+	transition: 400ms;
 }
 
 .sobre {
 	position: relative;
 	width: 940px;
 	margin: 0 auto;
+	padding: 3em 0;
 
 }
 
 .sobre p {
 	font-size: 18px;
-	margin: 0 0 10px 0;
 	text-align: left;
 	line-height: 1.5;
 
@@ -85,20 +91,21 @@ a:hover {
 .titulo-principal {
 	text-align: center;
 	font-size: 2em;
-	margin: 5px 0 1em;
+	margin: 20px auto;
+
 }
 
 .pc-case {
-	width: 20%;
+	width: 18%;
 	float: left;
 	margin: 0 20px 0 0;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px #000000;
 }
 
 .vantagens {
-	margin-top: 100px;
 	background: linear-gradient(#dbf9f5, #4682B4);
 }
-
 
 .lista-beneficios {
 	width: 30%;
@@ -113,7 +120,18 @@ a:hover {
 }
 
 .copiuter {
-	width: 30%;
+	width: 25%;
+	box-shadow: 5px 5px 5px #000010;
+}
+
+.depoimentos {
+	padding: 3em;
+	background: #4682B4;
+}
+
+.clientes {
+	width: 300px;
+	height: 300px;
 }
 
 footer {
