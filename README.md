@@ -1,4 +1,5 @@
 ﻿Um-site-do-nada
  
- Estou criando um site a partir dos conhecimentos que venho adquirindo ao entrar no mundo da programação!
- Tudo que está sendo inserido nessas linhas de código são frutos do meu esforço e dedicação, por favor, sejam carinhosos no julgamento =)
+ I'm start to learn how to make a web developer with Alura.com;
+ I understend how much this it's hard, but i know that my dream is so muth bigger with this;
+    I'm start learn also english; 
